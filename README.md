@@ -3,6 +3,8 @@ E-Commerce Page Testing – Automation Exercise
 
 This project contains a complete manual test plan created for the [https://automationexercise.com](https://automationexercise.com) website, focusing specifically on the **Product Page** and **Signup/Login** functionality.
 
+Github Repositary Link: https://github.com/Hog-Nob/AutomationExercise.git
+
 ## Contents
 
 - `test-plan.md` – Scope, objectives, approach, criteria, schedule, and deliverables of testing.
